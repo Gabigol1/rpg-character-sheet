@@ -1,11 +1,11 @@
 const data = {
-    name: "Claudio",
-    player: "Ryan",
-    occupation: "Caçador",
-    age: 21,
+    name: "Hiroshi Fujiwara",
+    player: "Burisses",
+    occupation: "Yokai",
+    age: 31,
     sex: "male",
-    birthplace: "São paulo",
-    residence: "São paulo",
+    birthplace: "Tokyo",
+    residence: "Tokyo",
 
     life: {
         current: 12,
@@ -18,20 +18,20 @@ const data = {
 
     weapons: [
         {
-            name: "Balestra",
+            name: "Daikyu",
             type: "Arco",
             damage: "1d20",
             numCurrent: 1,
             numMax: 1,
             attack: 5,
-            reach: "10 m",
+            reach: "15 m",
             defect: 1,
             area: "",
         },
         {
-            name: "Canivete",
-            type: "Briga",
-            damage: "1d10",
+            name: "Katana",
+            type: "Arma Branca",
+            damage: "1d20",
             numCurrent: "",
             numMax: "",
             attack: "1/2",
